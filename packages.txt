@@ -1,0 +1,30 @@
+The following R packages will be used in class. We will learn more about these later in the course. Check out the R tutorial section above for more information on how to install them.
+
+zoo: Z's ordered observations
+
+Vignette: zoo: An S3 Class and Methods for Indexed Totally Ordered Observations.
+
+Vignette: zoo Quick Reference
+
+tseries: Time series analysis and computational finance
+
+TSA: Time series analysis.
+
+xts: Extensible time series
+
+Vignette: xts: Extensible Time Series.
+
+mvtnorm:  Multivariate normal and multivariate t distribution.
+
+Vignette: Using mvtnorm.
+
+boot: Bootstrap R Functions.
+
+quadprog. Functions to solve Quadratic Programming Problems.
+
+fPortfolio. Rmetrics - Portfolio Selection and Optimization
+
+PerformanceAnalytics:  Econometric tools for performance and risk analysis
+
+Vignette: PerformanceAnalytics Charts and Tables Reference.
+
